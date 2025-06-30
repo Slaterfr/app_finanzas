@@ -25,7 +25,7 @@ Aplicación de escritorio desarrollada en **Python** con interfaz gráfica usand
 
 ---
 
-## 🧠 Objetivo del proyecto
+## Objetivo del proyecto
 
 Este proyecto fue creado con fines de aprendizaje, para practicar conceptos como:
 
